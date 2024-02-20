@@ -1,1 +1,21 @@
+# Dependency directories
 node_modules/
+
+# Next.js build directory
+.next/
+
+# Environment variables
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# macOS
+.DS_Store
