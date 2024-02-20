@@ -1,14 +1,14 @@
 {
-  "name": "nextjs-tailwind-event-landing-page",
+  "name": "mcube",
   "version": "1.0.0",
   "private": true,
   "author": "Creative Tim",
   "license": "See license in https://www.creative-tim.com/license",
   "homepage": "https://demos.creative-tim.com/nextjs-tailwind-event-landing-page",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
+    "dev": "next dev --port 3001",
+    "build": "next build --port 3001",
+    "start": "next start --p 3001",
     "lint": "next lint"
   },
   "dependencies": {
